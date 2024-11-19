@@ -45,7 +45,7 @@ Copy code
 ## Cómo Usar el Proyecto
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/portafolio-personal.git
+   git clone https://github.com/ConnectUs1989/portafolio-personal.git
 Abre el archivo index.html en tu navegador:
 bash
 Copy code
